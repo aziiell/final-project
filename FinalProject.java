@@ -2,6 +2,7 @@ package tugas;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
 public class FinalProject {
     static double mean (int n, double[] data){
         double jumlah = 0;
